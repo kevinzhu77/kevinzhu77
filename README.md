@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Thanks for checking out my GitHub! I'm currently pursuing a Bachelors of Mathematics (Computational Mathematics and Statistics) with a Computing minor at the University of Waterloo.
-I'm very passionate about business intelligence, data science, and machine learning! <br>
+I'm passionate about business intelligence, data science, and machine learning! <br>
 
 ### How to Reach Me
 - LinkedIn: https://www.linkedin.com/in/kevinzhu77/

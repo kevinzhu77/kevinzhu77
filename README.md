@@ -1,11 +1,7 @@
 ## Hi there 👋
 
-Thanks for checking out my GitHub! I'm currently pursuing a Bachelors of Mathematics, Honours Computational Mathematics and Statistics with a computing minor at the University of Waterloo.
+Thanks for checking out my GitHub! I'm currently pursuing a Bachelors of Mathematics, Honours Computational Mathematics and Statistics at the University of Waterloo.
 I'm passionate about business intelligence, data science, and machine learning! <br>
-
-#### Contact
-- LinkedIn: https://www.linkedin.com/in/kevinzhu77/
-- Email: kevin.zhu2@uwaterloo.ca
 
 
 <!--

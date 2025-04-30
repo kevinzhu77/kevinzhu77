@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Thanks for checking out my GitHub! I'm currently pursuing a Bachelors of Mathematics, Computational Mathematics and Statistics Double Major with a Computing Minor at the University of Waterloo. <br> <br>
-I have previous internship experience in data analystics, data science and software development. Currently, my passions include business intelligence, data analystics and machine learning! <br>
+I have previous internship experience in data analystics and software development. Currently, my passions include business intelligence, data science and machine learning! <br>
 
 How to Reach Me:
 - Email: kevin.zhu2@uwaterloo.ca

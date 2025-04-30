@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-Thanks for checking out my GitHub! I'm currently pursuing a Bachelors of Mathematics, Honours Computational Mathematics and Statistics at the University of Waterloo.
-I'm passionate about business intelligence, data science, and machine learning! <br>
+Thanks for checking out my GitHub! I'm currently pursuing a Bachelors of Mathematics, Computational Mathematics and Statistics Double Major with a Computing Minor at the University of Waterloo.
+I have previous internship experience in data analystics and data science at Envrionment and Climate Change Canada! <br>
 
+How to Reach Me:
+- Email: kevin.zhu2@uwaterloo.ca
+- Linkedin: https://www.linkedin.com/in/kevinzhu77/
 
 <!--
 **kevinzhu77/kevinzhu77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

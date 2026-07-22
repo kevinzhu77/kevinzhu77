@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Thanks for checking out my GitHub! I'm currently pursuing a Bachelors of Mathematics, Computational Mathematics and Statistics Double Major with a Computing Minor at the University of Waterloo. <br> <br>
+Thanks for checking out my GitHub! I'm currently pursuing a Bachelors of Mathematics, in Statistics with a Computing Minor at the University of Waterloo. <br> <br>
 I have previous internship experience in data analystics and software development. Currently, my passions include business intelligence, data science and machine learning! <br>
 
 How to Reach Me:
